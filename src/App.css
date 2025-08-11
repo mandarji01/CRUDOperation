@@ -1,0 +1,27 @@
+.user-list {
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid burlywood;
+  margin: 0;
+  padding: 10px;
+  list-style: none;
+}
+
+.user-list-header {
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid burlywood;
+  margin: 0;
+  padding: 10px;
+  list-style: none;
+  font-size: 20px;
+  font-weight: 800px;
+}
+
+.nav-list {
+  display: flex;
+  width: 400px;
+  justify-content: space-around;
+  text-align: center;
+  list-style: none;
+}
